@@ -1,0 +1,19 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1_中é
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Variable2_中é
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable3_中é
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable4
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
