@@ -10,7 +10,7 @@ Children:
     - Name: Node1
       Type: NodePointer
       DataType: NodeId
-      Value: "/Objects/DynamicLinksBVT/Security"
+      Value: "/Objects/DynamicLinksBVT_LL/Security"
       Children:
       - Name: Kind
         Type: PropertyType
@@ -39,7 +39,7 @@ Children:
     - Name: Node1
       Type: NodePointer
       DataType: NodeId
-      Value: "/Objects/DynamicLinksBVT/Alarms"
+      Value: "/Objects/DynamicLinksBVT_LL/Alarms"
       Children:
       - Name: Kind
         Type: PropertyType

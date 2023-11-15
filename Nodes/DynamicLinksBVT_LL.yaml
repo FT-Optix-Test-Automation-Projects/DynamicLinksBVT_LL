@@ -1,4 +1,4 @@
-Name: DynamicLinksBVT
+Name: DynamicLinksBVT_LL
 Type: ProjectFolder
 Children:
 - Name: Localization
@@ -22,7 +22,7 @@ Children:
   - Name: DefaultUserFolder
     Type: NodePointer
     DataType: NodeId
-    Value: "/Objects/DynamicLinksBVT/Security/Users"
+    Value: "/Objects/DynamicLinksBVT_LL/Security/Users"
     Children:
     - Name: Kind
       Type: PropertyType

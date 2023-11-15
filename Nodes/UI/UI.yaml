@@ -214,7 +214,7 @@ Children:
   - Name: StartWindow
     Type: NodePointer
     DataType: NodeId
-    Value: "/Objects/DynamicLinksBVT/UI/MainWindow"
+    Value: "/Objects/DynamicLinksBVT_LL/UI/MainWindow"
     Children:
     - Name: Kind
       Type: PropertyType
@@ -223,7 +223,7 @@ Children:
   - Name: StyleSheet
     Type: NodePointer
     DataType: NodeId
-    Value: "/Objects/DynamicLinksBVT/UI/DefaultStyleSheet"
+    Value: "/Objects/DynamicLinksBVT_LL/UI/DefaultStyleSheet"
     Children:
     - Name: Kind
       Type: PropertyType
