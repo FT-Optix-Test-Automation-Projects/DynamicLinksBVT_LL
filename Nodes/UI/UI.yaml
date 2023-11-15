@@ -260,7 +260,7 @@ Children:
     DataType: String
     ModellingRule: Optional
     Value: "test_bvt_dynamic_links_fbcc7ab072"
-  - Name: StringLabel_中e
+  - Name: StringLabel_中é
     Type: Label
     Children:
     - Name: TopMargin
